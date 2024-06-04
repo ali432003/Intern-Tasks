@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "compromise": "^14.13.0",
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "qs": "^6.12.1",
+    "wink-pos-tagger": "^2.2.2",
+    "xml-js": "^1.6.11"
+  }
+}
